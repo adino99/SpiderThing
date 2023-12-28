@@ -12,3 +12,4 @@ keras
 redis
 h5py
 scikit-learn
+tensorflow
