@@ -8,3 +8,6 @@ flask
 flask-socketio
 torch
 fastdtw
+redis
+pandas
+scikit-learn
