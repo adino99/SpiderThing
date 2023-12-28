@@ -1,0 +1,10 @@
+pika
+pyzmq
+openai2
+openai
+asyncio
+bleak
+flask 
+flask-socketio
+torch
+fastdtw
