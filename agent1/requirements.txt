@@ -1,0 +1,14 @@
+pika
+pyzmq
+openai2
+openai
+asyncio
+bleak
+flask 
+flask-socketio
+torch
+gym
+keras
+redis
+h5py
+scikit-learn
